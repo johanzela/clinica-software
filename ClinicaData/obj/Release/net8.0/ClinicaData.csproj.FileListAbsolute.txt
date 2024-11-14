@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\bin\Release\net8.0\ClinicaData.deps.json
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\bin\Release\net8.0\ClinicaData.dll
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\bin\Release\net8.0\ClinicaData.pdb
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\bin\Release\net8.0\ClinicaEntidades.dll
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\bin\Release\net8.0\ClinicaEntidades.pdb
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaData.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaData.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaData.AssemblyInfo.cs
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaData.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaD.A5F7B8D1.Up2Date
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaData.dll
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\refint\ClinicaData.dll
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaData.pdb
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ref\ClinicaData.dll
+C:\Users\USER\Desktop\integrador 2\proyecto\SistemaClinica\ClinicaData\obj\Release\net8.0\ClinicaData.sourcelink.json
